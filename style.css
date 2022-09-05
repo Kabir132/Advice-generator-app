@@ -108,8 +108,7 @@ button:hover {
 @media screen and (max-width: 900px) {
   .card {
     width: 90%;
-    height: 40%;
-    font-size: 12px;
+    height: 60%;
   }
 
   .breaker {
@@ -122,6 +121,7 @@ button:hover {
 
   .adviceText {
     height: 65%;
+    font-size: 24px;
   }
 
   .pause-icon::before,
@@ -130,6 +130,6 @@ button:hover {
   }
 
   button {
-    bottom: 27%;
+    bottom: 16.5%;
   }
 }
